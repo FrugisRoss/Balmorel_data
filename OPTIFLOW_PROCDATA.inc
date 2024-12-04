@@ -39,6 +39,14 @@ Methanation_40                                             0.282               1
 Methanation_45                                             0.247               1               2045         20           9880                                        
 Methanation_50                                             0.212               1               2050         20           8480                                        
                                                                                                                                                                      
+Biogas_Upgrading_20                                        0.1244              1               2020         20                                                       
+Biogas_Upgrading_25                                                            1               2025         20                                                       
+Biogas_Upgrading_30                                                            1               2030         20                                                       
+Biogas_Upgrading_35                                                            1               2035         20                                                       
+Biogas_Upgrading_40                                                            1               2040         20                                                       
+Biogas_Upgrading_45                                                            1               2045         20                                                       
+Biogas_Upgrading_50                                                            1               2050         20                                                       
+                                                                                                                                                                     
 ***Hydrogen                                                                                                                                                          
 Hydrogen_STO_Large_20                                      0.125               1               2020         20           5771                                        
 Hydrogen_STO_Large_25                                      0.111               1               2025         20           5108                                        
