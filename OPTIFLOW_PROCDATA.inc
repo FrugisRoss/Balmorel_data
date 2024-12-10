@@ -2,6 +2,11 @@ TABLE PROCDATA(PROC,PROCDATASET)    "Process data"
                                                                                                                                                                      
 *                                                          MEuro/GJ/h                                                    Euro/GJ/h                                   
                                                            PROCINVCOST         PROCKAPVARIABLE PROCFROMYEAR PROCLIFETIME PROCFIXCOST      /*   PROCVARCOST */        
+*Rossella LUOptiflow                                                                                                                                                 
+***Forest                                                                                                                                                            
+Wood_Production                                            0                   1               2020         100          0                                           
+Untouched_Forest                                           0                   1               2020         100          0                                           
+                                                                                                                                                                     
 ***CO2 DAC                                                                                                                                                           
 CO2_DAC_20                                                 5.8                 1               2020         30           210000                                      
 CO2_DAC_25                                                 4.3                 1               2025         30           160000                                      

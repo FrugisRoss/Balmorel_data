@@ -32,4 +32,9 @@ SeaBuffer
 GHG_Buffer                                                             
 GHGbio_Buffer                                                          
 Gas_Buffer                                                             
+                                                                       
+*Rossella LUOptiflow                                                   
+Wood_Material_Buffer                                                   
+CO2_Aff_Buffer                                                         
+Wood_for_Use                                                           
 /;                                                                     

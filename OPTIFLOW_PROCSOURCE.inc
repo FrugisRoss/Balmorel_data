@@ -7,8 +7,9 @@ DieselSource
 HydrogenSource_MWh                                   
 KeroseneSource                                       
 MDOSource                                            
+Productive_Forest_Land_Gen                           
 Straw_Gen                                            
-Wood_Gen                                             
+*Wood_Gen                                            
 Wood_Pellets_Gen                                     
 *Manure_Gen                                          
 /;                                                   

@@ -2,6 +2,7 @@ SET FLOW "Flows of the network"
 /                                                                                                                  
 * NB: for debugging, print and ailing memory nice to have FLOW elements in UPPERCASE og Proc elements in CamelCase.
                                                                                                                    
+                                                                                                                   
 AIRFLOW                                                                                                            
 AMMONIA_FLOW                                                                                                       
 AMMONIA_FLOW_EXP                                                                                                   
@@ -23,6 +24,7 @@ BIOMASS_FLOW_SOLID
 BIOMASS_FLOW_WET                                                                                                   
 BIOMASS_TG                                                                                                         
 CO2_FLOW                                                                                                           
+CO2_FLOW_AFF                                                                                                       
 CO2_FLOW_BIOGAS                                                                                                    
 CO2_FLOW_BIOGEN                                                                                                    
 CO2_FLOW_DAC                                                                                                       
@@ -40,6 +42,7 @@ CO2_FLOW_USE
 CO2_SOURCE_FLOW_BIOGEN                                                                                             
 CO2_SOURCE_FLOW_DAC                                                                                                
 CO2_SOURCE_FLOW_FOSSIL                                                                                             
+CURRENT_PRODUCTIVE_FOREST_LAND                                                                                     
 DIESELFLOW                                                                                                         
 E_FT_DIESEL_FLOW                                                                                                   
 E_FT_DIESEL_FLOW_EXP                                                                                               
@@ -79,15 +82,21 @@ MANURE_GEN_FLOW
 MDOFLOW                                                                                                            
 METHANOLFLOW                                                                                                       
 METHANOLFLOW_EXP                                                                                                   
+NEW_UNTOUCHED_FOREST_LAND                                                                                          
 NITROGEN_FLOW                                                                                                      
 OPERATIONCOST                                                                                                      
+PRODUCTIVE_FOREST_LAND                                                                                             
 ROADFLOW                                                                                                           
 SEAFLOW                                                                                                            
 SNG_FLOW                                                                                                           
 SNG_FLOW_FOR_USE                                                                                                   
 STRAW_GEN_FLOW                                                                                                     
 TARFLOW                                                                                                            
+WOOD_FLOW                                                                                                          
+WOOD_FLOW_BAL                                                                                                      
+WOOD_FOR_ENERGY_FLOW                                                                                               
 WOOD_GEN_FLOW                                                                                                      
+WOOD_MATERIAL_FLOW                                                                                                 
 WOOD_PELLETS_GEN_FLOW                                                                                              
 GHGEMISSION_nonbio                                                                                                 
 GHGEMISSION_bio                                                                                                    

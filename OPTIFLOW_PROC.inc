@@ -52,6 +52,7 @@ BioJetBuffer_Exp
 Biomass_For_Biogas                                                                                                 
 Biomass_for_use                                                                                                    
 CO2                                                                                                                
+CO2_Aff_Buffer                                                                                                     
 CO2_After_Sto                                                                                                      
 CO2_Before_Use                                                                                                     
 CO2_Biogas                                                                                                         
@@ -199,6 +200,8 @@ Money_buffer_T
 Nitrogen_Production                                                                                                
 ProcEximShip                                                                                                       
 ProcEximTruck                                                                                                      
+Productive_Forest                                                                                                  
+Productive_Forest_Land_Gen                                                                                         
 Road_fuels_sum                                                                                                     
 RoadBuffer                                                                                                         
 Sea_fuels_sum                                                                                                      
@@ -214,9 +217,14 @@ TG_35
 TG_40                                                                                                              
 TG_45                                                                                                              
 TG_50                                                                                                              
+Untouched_Forest                                                                                                   
 Wet_Biomass                                                                                                        
+Wood_for_Energy                                                                                                    
+Wood_for_Use                                                                                                       
 Wood_Gen                                                                                                           
+Wood_Material_Buffer                                                                                               
 Wood_Pellets_Gen                                                                                                   
+Wood_Production                                                                                                    
 GHG_Buffer                                                                                                         
 GHGbio_Buffer                                                                                                      
 /;                                                                                                                 
