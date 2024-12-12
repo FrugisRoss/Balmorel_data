@@ -56,8 +56,8 @@ BioJetBuffer
 BioJetBuffer_Exp                                                                                                   
 Biomass_For_Biogas                                                                                                 
 Biomass_for_use                                                                                                    
+C_Rich_Soils_Extraction                                                                                            
 CO2                                                                                                                
-CO2_Aff_Buffer                                                                                                     
 CO2_After_Sto                                                                                                      
 CO2_Before_Use                                                                                                     
 CO2_Biogas                                                                                                         
@@ -74,6 +74,7 @@ CO2_DAC_Total
 CO2_FOS                                                                                                            
 CO2_Grid_In                                                                                                        
 CO2_Grid_Out                                                                                                       
+CO2_Land_Buffer                                                                                                    
 CO2_Seq_20                                                                                                         
 CO2_Seq_25                                                                                                         
 CO2_Seq_30                                                                                                         
@@ -178,6 +179,7 @@ Hydrogen_Use
 HydrogenBuffer_MWh                                                                                                 
 HydrogenSource_MWh                                                                                                 
 KeroseneSource                                                                                                     
+Land_for_Wood_Production                                                                                           
 Linkstorage_Res                                                                                                    
 Manure_Gen                                                                                                         
 MDOSource                                                                                                          
@@ -202,6 +204,8 @@ MethanolBuffer_Exp
 MethanolTotal                                                                                                      
 MethanolTotal_sum                                                                                                  
 Money_buffer_T                                                                                                     
+New_Productiove_Forest                                                                                             
+New_Productive_Forest                                                                                              
 Nitrogen_Production                                                                                                
 Oat_Agriculture                                                                                                    
 Oat_Buffer                                                                                                         
@@ -219,7 +223,6 @@ SNG_Total
 Solid_Biomass                                                                                                      
 Straw_for_Energy                                                                                                   
 Straw_for_Use                                                                                                      
-Straw_Gen                                                                                                          
 Tar                                                                                                                
 TG_20                                                                                                              
 TG_25                                                                                                              
@@ -234,7 +237,6 @@ Wheat_Agriculture
 Wheat_Buffer                                                                                                       
 Wood_for_Energy                                                                                                    
 Wood_for_Use                                                                                                       
-Wood_Gen                                                                                                           
 Wood_Material_Buffer                                                                                               
 Wood_Pellets_Gen                                                                                                   
 Wood_Production                                                                                                    

@@ -2,7 +2,6 @@ SET FLOW "Flows of the network"
 /                                                                                                                  
 * NB: for debugging, print and ailing memory nice to have FLOW elements in UPPERCASE og Proc elements in CamelCase.
                                                                                                                    
-                                                                                                                   
 AGRICULTURAL_LAND                                                                                                  
 AIRFLOW                                                                                                            
 AMMONIA_FLOW                                                                                                       
@@ -26,15 +25,18 @@ BIOMASS_BJ_H2
 BIOMASS_FLOW_SOLID                                                                                                 
 BIOMASS_FLOW_WET                                                                                                   
 BIOMASS_TG                                                                                                         
+C_RICH_LAND                                                                                                        
 CO2_FLOW                                                                                                           
-CO2_FLOW_AFF                                                                                                       
 CO2_FLOW_BIOGAS                                                                                                    
 CO2_FLOW_BIOGEN                                                                                                    
+CO2_FLOW_CRS                                                                                                       
 CO2_FLOW_DAC                                                                                                       
 CO2_FLOW_EME                                                                                                       
 CO2_FLOW_FOSSIL                                                                                                    
 CO2_FLOW_FT                                                                                                        
 CO2_FLOW_NOSTO                                                                                                     
+CO2_FLOW_NPF                                                                                                       
+CO2_FLOW_NUF                                                                                                       
 CO2_FLOW_OUT                                                                                                       
 CO2_FLOW_SEQ                                                                                                       
 CO2_FLOW_SEQ_BIOGEN                                                                                                
@@ -86,6 +88,8 @@ MANURE_GEN_FLOW
 MDOFLOW                                                                                                            
 METHANOLFLOW                                                                                                       
 METHANOLFLOW_EXP                                                                                                   
+NEW_PRODUCTIVE_FOREST_LAND                                                                                         
+NEW_PRODUCTIVE_FOREST_LAND_IN                                                                                      
 NEW_UNTOUCHED_FOREST_LAND                                                                                          
 NITROGEN_FLOW                                                                                                      
 OAT_FLOW                                                                                                           
@@ -101,16 +105,15 @@ SNG_FLOW_FOR_USE
 STRAW_FLOW                                                                                                         
 STRAW_FLOW_BAL                                                                                                     
 STRAW_FOR_ENERGY_FLOW                                                                                              
-STRAW_GEN_FLOW                                                                                                     
 TARFLOW                                                                                                            
 WHEAT_FLOW                                                                                                         
 WHEAT_LAND                                                                                                         
 WOOD_FLOW                                                                                                          
 WOOD_FLOW_BAL                                                                                                      
 WOOD_FOR_ENERGY_FLOW                                                                                               
-WOOD_GEN_FLOW                                                                                                      
 WOOD_MATERIAL_FLOW                                                                                                 
 WOOD_PELLETS_GEN_FLOW                                                                                              
+WOOD_PRODUCTION_LAND                                                                                               
 GHGEMISSION_nonbio                                                                                                 
 GHGEMISSION_bio                                                                                                    
 /;                                                                                                                 

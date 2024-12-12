@@ -143,13 +143,13 @@ $label NO_BIOGAS
 2045                                                                                                               .    Albertslund .    Wood_Production              
 2050                                                                                                               .    Albertslund .    Wood_Production              
                                                                                                                                                                       
-*2020                                                                                                              .    Albertslund .    Agriculture                  
-*2025                                                                                                              .    Albertslund .    Agriculture                  
-*2030                                                                                                              .    Albertslund .    Agriculture                  
-*2035                                                                                                              .    Albertslund .    Agriculture                  
-*2040                                                                                                              .    Albertslund .    Agriculture                  
-*2045                                                                                                              .    Albertslund .    Agriculture                  
-*2050                                                                                                              .    Albertslund .    Agriculture                  
+2020                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
+2025                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
+2030                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
+2035                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
+2040                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
+2045                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
+2050                                                                                                               .    Albertslund .    C_Rich_Soils_Extraction      
                                                                                                                                                                       
 2020                                                                                                               .    Albertslund .    Wheat_Agriculture            
 2025                                                                                                               .    Albertslund .    Wheat_Agriculture            
@@ -183,13 +183,13 @@ $label NO_BIOGAS
 2045                                                                                                               .    Albertslund .    Oat_Agriculture              
 2050                                                                                                               .    Albertslund .    Oat_Agriculture              
                                                                                                                                                                       
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
+2020                                                                                                               .    Albertslund .    New_Productive_Forest        
+2025                                                                                                               .    Albertslund .    New_Productive_Forest        
+2030                                                                                                               .    Albertslund .    New_Productive_Forest        
+2035                                                                                                               .    Albertslund .    New_Productive_Forest        
+2040                                                                                                               .    Albertslund .    New_Productive_Forest        
+2045                                                                                                               .    Albertslund .    New_Productive_Forest        
+2050                                                                                                               .    Albertslund .    New_Productive_Forest        
                                                                                                                                                                       
                                                                                                                                                                       
                                                                                                                                                                       

@@ -51,8 +51,8 @@ $ifi %STEPWISEPRICE%==yes GMAXF(Y,CCCRRRAAA,STEPWISEPRICE_FFF)=0;
                                                                                                                                                                                
 $ifi %baloptgasbridge%==yes GMAXF(Y,CCCRRRAAA,'BIOGAS')=EPS;                                                                                                                   
                                                                                                                                                                                
-$ifi %OPTIFLOW%==yes GMAXF(YYY,'DENMARK','WOODCHIPS')=EPS;
-$ifi %OPTIFLOW%==yes GMAXF(YYY,'DENMARK','STRAW')=EPS;
+$ifi %baloptLU%==yes GMAXF(YYY,'DENMARK','WOODCHIPS')=EPS;
+$ifi %baloptLU%==yes GMAXF(YYY,'DENMARK','STRAW')=EPS;
 
                                                                                                                                                                                
                                                                                                                                                                                
