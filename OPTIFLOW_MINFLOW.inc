@@ -3,6 +3,10 @@ PARAMETER MINFLOW(YYY,CCCRRRAAA,PROC,FLOW) "Constraint about fuel use limitation
 *Rossella_LUOptiflow                                                                                                                                                                      
 2050                                                                                         .    DENMARK        .    CO2_Aff_Buffer       .    CO2_FLOW_AFF       EPS                    
 2050                                                                                         .    DENMARK        .    Wood_Material_Buffer .    WOOD_MATERIAL_FLOW EPS                    
+2050                                                                                         .    DENMARK        .    Wheat_Buffer         .    WHEAT_FLOW         EPS                    
+2050                                                                                         .    DENMARK        .    Barley_Buffer        .    BARLEY_FLOW        EPS                    
+2050                                                                                         .    DENMARK        .    Rye_Buffer           .    RYE_FLOW           EPS                    
+2050                                                                                         .    DENMARK        .    Oat_Buffer           .    OAT_FLOW           EPS                    
                                                                                                                                                                                           
 2050                                                                                         .    AUSTRIA        .    SeaBuffer            .    SEAFLOW            1161965.64626224       
 2050                                                                                         .    AUSTRIA        .    RoadBuffer           .    ROADFLOW           16200520.0256962       

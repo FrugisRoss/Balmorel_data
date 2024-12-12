@@ -37,4 +37,9 @@ Gas_Buffer
 Wood_Material_Buffer                                                   
 CO2_Aff_Buffer                                                         
 Wood_for_Use                                                           
+Wheat_Buffer                                                           
+Barley_Buffer                                                          
+Rye_Buffer                                                             
+Oat_Buffer                                                             
+Straw_for_Use                                                          
 /;                                                                     

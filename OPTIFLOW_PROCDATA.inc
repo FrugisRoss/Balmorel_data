@@ -6,6 +6,11 @@ TABLE PROCDATA(PROC,PROCDATASET)    "Process data"
 ***Forest                                                                                                                                                            
 Wood_Production                                            0                   1               2020         100          0                                           
 Untouched_Forest                                           0                   1               2020         100          0                                           
+Agriculture                                                0                   1               2020         100          0                                           
+Wheat_Agriculture                                          0                   1               2020         100          0                                           
+Barley_Agriculture                                         0                   1               2020         100          0                                           
+Rye_Agriculture                                            0                   1               2020         100          0                                           
+Oat_Agriculture                                            0                   1               2020         100          0                                           
                                                                                                                                                                      
 ***CO2 DAC                                                                                                                                                           
 CO2_DAC_20                                                 5.8                 1               2020         30           210000                                      

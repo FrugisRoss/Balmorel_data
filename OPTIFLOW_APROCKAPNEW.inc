@@ -143,6 +143,45 @@ $label NO_BIOGAS
 2045                                                                                                               .    Albertslund .    Wood_Production              
 2050                                                                                                               .    Albertslund .    Wood_Production              
                                                                                                                                                                       
+*2020                                                                                                              .    Albertslund .    Agriculture                  
+*2025                                                                                                              .    Albertslund .    Agriculture                  
+*2030                                                                                                              .    Albertslund .    Agriculture                  
+*2035                                                                                                              .    Albertslund .    Agriculture                  
+*2040                                                                                                              .    Albertslund .    Agriculture                  
+*2045                                                                                                              .    Albertslund .    Agriculture                  
+*2050                                                                                                              .    Albertslund .    Agriculture                  
+                                                                                                                                                                      
+2020                                                                                                               .    Albertslund .    Wheat_Agriculture            
+2025                                                                                                               .    Albertslund .    Wheat_Agriculture            
+2030                                                                                                               .    Albertslund .    Wheat_Agriculture            
+2035                                                                                                               .    Albertslund .    Wheat_Agriculture            
+2040                                                                                                               .    Albertslund .    Wheat_Agriculture            
+2045                                                                                                               .    Albertslund .    Wheat_Agriculture            
+2050                                                                                                               .    Albertslund .    Wheat_Agriculture            
+                                                                                                                                                                      
+2020                                                                                                               .    Albertslund .    Barley_Agriculture           
+2025                                                                                                               .    Albertslund .    Barley_Agriculture           
+2030                                                                                                               .    Albertslund .    Barley_Agriculture           
+2035                                                                                                               .    Albertslund .    Barley_Agriculture           
+2040                                                                                                               .    Albertslund .    Barley_Agriculture           
+2045                                                                                                               .    Albertslund .    Barley_Agriculture           
+2050                                                                                                               .    Albertslund .    Barley_Agriculture           
+                                                                                                                                                                      
+2020                                                                                                               .    Albertslund .    Rye_Agriculture              
+2025                                                                                                               .    Albertslund .    Rye_Agriculture              
+2030                                                                                                               .    Albertslund .    Rye_Agriculture              
+2035                                                                                                               .    Albertslund .    Rye_Agriculture              
+2040                                                                                                               .    Albertslund .    Rye_Agriculture              
+2045                                                                                                               .    Albertslund .    Rye_Agriculture              
+2050                                                                                                               .    Albertslund .    Rye_Agriculture              
+                                                                                                                                                                      
+2020                                                                                                               .    Albertslund .    Oat_Agriculture              
+2025                                                                                                               .    Albertslund .    Oat_Agriculture              
+2030                                                                                                               .    Albertslund .    Oat_Agriculture              
+2035                                                                                                               .    Albertslund .    Oat_Agriculture              
+2040                                                                                                               .    Albertslund .    Oat_Agriculture              
+2045                                                                                                               .    Albertslund .    Oat_Agriculture              
+2050                                                                                                               .    Albertslund .    Oat_Agriculture              
                                                                                                                                                                       
                                                                                                                                                                       
                                                                                                                                                                       

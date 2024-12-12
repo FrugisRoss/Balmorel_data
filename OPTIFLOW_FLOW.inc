@@ -3,9 +3,12 @@ SET FLOW "Flows of the network"
 * NB: for debugging, print and ailing memory nice to have FLOW elements in UPPERCASE og Proc elements in CamelCase.
                                                                                                                    
                                                                                                                    
+AGRICULTURAL_LAND                                                                                                  
 AIRFLOW                                                                                                            
 AMMONIA_FLOW                                                                                                       
 AMMONIA_FLOW_EXP                                                                                                   
+BARLEY_FLOW                                                                                                        
+BARLEY_LAND                                                                                                        
 BIO_ME_FLOW                                                                                                        
 BIO_TG_FLOW                                                                                                        
 BIOGAS_FLOW                                                                                                        
@@ -42,6 +45,7 @@ CO2_FLOW_USE
 CO2_SOURCE_FLOW_BIOGEN                                                                                             
 CO2_SOURCE_FLOW_DAC                                                                                                
 CO2_SOURCE_FLOW_FOSSIL                                                                                             
+CURRENT_AGRICULTURAL_LAND                                                                                          
 CURRENT_PRODUCTIVE_FOREST_LAND                                                                                     
 DIESELFLOW                                                                                                         
 E_FT_DIESEL_FLOW                                                                                                   
@@ -84,14 +88,23 @@ METHANOLFLOW
 METHANOLFLOW_EXP                                                                                                   
 NEW_UNTOUCHED_FOREST_LAND                                                                                          
 NITROGEN_FLOW                                                                                                      
+OAT_FLOW                                                                                                           
+OAT_LAND                                                                                                           
 OPERATIONCOST                                                                                                      
 PRODUCTIVE_FOREST_LAND                                                                                             
 ROADFLOW                                                                                                           
+RYE_FLOW                                                                                                           
+RYE_LAND                                                                                                           
 SEAFLOW                                                                                                            
 SNG_FLOW                                                                                                           
 SNG_FLOW_FOR_USE                                                                                                   
+STRAW_FLOW                                                                                                         
+STRAW_FLOW_BAL                                                                                                     
+STRAW_FOR_ENERGY_FLOW                                                                                              
 STRAW_GEN_FLOW                                                                                                     
 TARFLOW                                                                                                            
+WHEAT_FLOW                                                                                                         
+WHEAT_LAND                                                                                                         
 WOOD_FLOW                                                                                                          
 WOOD_FLOW_BAL                                                                                                      
 WOOD_FOR_ENERGY_FLOW                                                                                               

@@ -191,7 +191,21 @@ Wood_for_Energy
 Wood_Material_Buffer                                          
 Wood_for_Use                                                  
 *Wood_Gen                                                     
-Straw_Gen                                                     
+*Straw_Gen                                                    
+Agricultural_Land_Gen                                         
+Agricultural_Land                                             
+Agriculture                                                   
+Wheat_Agriculture                                             
+Barley_Agriculture                                            
+Rye_Agriculture                                               
+Oat_Agriculture                                               
+Wheat_Buffer                                                  
+Barley_Buffer                                                 
+Rye_Buffer                                                    
+Oat_Buffer                                                    
+Straw_for_Energy                                              
+Straw_for_Use                                                 
+                                                              
 Wood_Pellets_Gen                                              
 Solid_Biomass                                                 
                                                               

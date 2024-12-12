@@ -4,6 +4,10 @@ SET  PROCKAPDATA(YYY,PROC,FLOW,IFLOWINOUT)    "Process data: capacity relative t
                                                                                                                                                                                                 
 2020                                                                                                            .    Wood_Production          .    PRODUCTIVE_FOREST_LAND    .    IFLOWINOUT_IN 
 2025                                                                                                            .    Untouched_Forest         .    NEW_UNTOUCHED_FOREST_LAND .    IFLOWINOUT_IN 
+2020                                                                                                            .    Wheat_Agriculture        .    WHEAT_LAND                .    IFLOWINOUT_IN 
+2020                                                                                                            .    Barley_Agriculture       .    BARLEY_LAND               .    IFLOWINOUT_IN 
+2020                                                                                                            .    Rye_Agriculture          .    RYE_LAND                  .    IFLOWINOUT_IN 
+2020                                                                                                            .    Oat_Agriculture          .    OAT_LAND                  .    IFLOWINOUT_IN 
 ***CO2                                                                                                                                                                                          
 2020                                                                                                            .    CO2_DAC_20               .    CO2_FLOW_DAC              .    IFLOWINOUT_OUT
 2020                                                                                                            .    CO2_DAC_25               .    CO2_FLOW_DAC              .    IFLOWINOUT_OUT

@@ -2,6 +2,9 @@ SET PROC "All 'transformations' that we use"
 /                                                                                                                  
 * NB: for debugging, print and ailing memory nice to have FLOW elements in UPPERCASE og Proc elements in CamelCase.
                                                                                                                    
+Agricultural_Land                                                                                                  
+Agricultural_Land_Gen                                                                                              
+Agriculture                                                                                                        
 Air_fuels_sum                                                                                                      
 AirBuffer                                                                                                          
 Ammonia_Eff                                                                                                        
@@ -14,6 +17,8 @@ Ammonia_Synthesis_45
 Ammonia_Synthesis_50                                                                                               
 AmmoniaBuffer                                                                                                      
 AmmoniaBuffer_Exp                                                                                                  
+Barley_Agriculture                                                                                                 
+Barley_Buffer                                                                                                      
 Bio_TG_Grid_IN                                                                                                     
 Bio_TG_Grid_OUT                                                                                                    
 Biogas_Grid_After_Sto                                                                                              
@@ -198,16 +203,22 @@ MethanolTotal
 MethanolTotal_sum                                                                                                  
 Money_buffer_T                                                                                                     
 Nitrogen_Production                                                                                                
+Oat_Agriculture                                                                                                    
+Oat_Buffer                                                                                                         
 ProcEximShip                                                                                                       
 ProcEximTruck                                                                                                      
 Productive_Forest                                                                                                  
 Productive_Forest_Land_Gen                                                                                         
 Road_fuels_sum                                                                                                     
 RoadBuffer                                                                                                         
+Rye_Agriculture                                                                                                    
+Rye_Buffer                                                                                                         
 Sea_fuels_sum                                                                                                      
 SeaBuffer                                                                                                          
 SNG_Total                                                                                                          
 Solid_Biomass                                                                                                      
+Straw_for_Energy                                                                                                   
+Straw_for_Use                                                                                                      
 Straw_Gen                                                                                                          
 Tar                                                                                                                
 TG_20                                                                                                              
@@ -219,6 +230,8 @@ TG_45
 TG_50                                                                                                              
 Untouched_Forest                                                                                                   
 Wet_Biomass                                                                                                        
+Wheat_Agriculture                                                                                                  
+Wheat_Buffer                                                                                                       
 Wood_for_Energy                                                                                                    
 Wood_for_Use                                                                                                       
 Wood_Gen                                                                                                           
