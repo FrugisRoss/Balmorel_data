@@ -2,7 +2,7 @@ SET FLOW "Flows of the network"
 /                                                                                                                  
 * NB: for debugging, print and ailing memory nice to have FLOW elements in UPPERCASE og Proc elements in CamelCase.
                                                                                                                    
-AGRICULTURAL_LAND                                                                                                  
+AGRICULTURE_LAND                                                                                                   
 AIRFLOW                                                                                                            
 AMMONIA_FLOW                                                                                                       
 AMMONIA_FLOW_EXP                                                                                                   
@@ -105,15 +105,19 @@ SNG_FLOW_FOR_USE
 STRAW_FLOW                                                                                                         
 STRAW_FLOW_BAL                                                                                                     
 STRAW_FOR_ENERGY_FLOW                                                                                              
+STRAW_GEN_FLOW                                                                                                     
 TARFLOW                                                                                                            
 WHEAT_FLOW                                                                                                         
 WHEAT_LAND                                                                                                         
 WOOD_FLOW                                                                                                          
 WOOD_FLOW_BAL                                                                                                      
 WOOD_FOR_ENERGY_FLOW                                                                                               
+WOOD_GEN_FLOW                                                                                                      
 WOOD_MATERIAL_FLOW                                                                                                 
 WOOD_PELLETS_GEN_FLOW                                                                                              
 WOOD_PRODUCTION_LAND                                                                                               
+WP_FOR_ENERGY_LAND                                                                                                 
+WP_FOR_MATERIALS_LAND                                                                                              
 GHGEMISSION_nonbio                                                                                                 
 GHGEMISSION_bio                                                                                                    
 /;                                                                                                                 

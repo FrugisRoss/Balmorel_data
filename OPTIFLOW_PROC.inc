@@ -223,6 +223,7 @@ SNG_Total
 Solid_Biomass                                                                                                      
 Straw_for_Energy                                                                                                   
 Straw_for_Use                                                                                                      
+Straw_Gen                                                                                                          
 Tar                                                                                                                
 TG_20                                                                                                              
 TG_25                                                                                                              
@@ -237,9 +238,12 @@ Wheat_Agriculture
 Wheat_Buffer                                                                                                       
 Wood_for_Energy                                                                                                    
 Wood_for_Use                                                                                                       
+Wood_Gen                                                                                                           
 Wood_Material_Buffer                                                                                               
 Wood_Pellets_Gen                                                                                                   
 Wood_Production                                                                                                    
+Wood_Production_for_Energy                                                                                         
+Wood_Production_for_Materials                                                                                      
 GHG_Buffer                                                                                                         
 GHGbio_Buffer                                                                                                      
 /;                                                                                                                 

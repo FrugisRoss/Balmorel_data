@@ -42,4 +42,6 @@ Barley_Buffer
 Rye_Buffer                                                             
 Oat_Buffer                                                             
 Straw_for_Use                                                          
+Wood_for_Energy                                                        
+Straw_for_Energy                                                       
 /;                                                                     

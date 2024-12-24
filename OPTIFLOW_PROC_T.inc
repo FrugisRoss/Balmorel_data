@@ -183,10 +183,13 @@ GHGbio_Buffer
 Biomass_for_use                                               
                                                               
 *RossellaLUOptiflow                                           
+                                                              
 Productive_Forest_Land_Gen                                    
 Productive_Forest                                             
 Wood_Production                                               
 Land_for_Wood_Production                                      
+Wood_Production_for_Energy                                    
+Wood_Production_for_Materials                                 
 Untouched_Forest                                              
 Wood_for_Energy                                               
 Wood_Material_Buffer                                          
@@ -209,6 +212,9 @@ Oat_Buffer
 Straw_for_Energy                                              
 Straw_for_Use                                                 
                                                               
+                                                              
+Wood_Gen                                                      
+Straw_Gen                                                     
 Wood_Pellets_Gen                                              
 Solid_Biomass                                                 
                                                               

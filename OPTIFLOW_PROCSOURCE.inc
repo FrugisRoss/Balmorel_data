@@ -11,5 +11,5 @@ Productive_Forest_Land_Gen
 Agricultural_Land_Gen                                
 Wood_Pellets_Gen                                     
                                                      
-*Manure_Gen                                          
+Manure_Gen                                           
 /;                                                   

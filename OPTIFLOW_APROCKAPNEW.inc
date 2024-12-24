@@ -126,6 +126,7 @@ $label NO_BIOGAS
 2050                                                                                                               .    Albertslund .    E_FT_50                      
                                                                                                                                                                       
 *Rossella LUOptiflow                                                                                                                                                  
+*$ifi not %baloptLU%==yes $goto NO_LU                                                                                                                                 
 *Forest                                                                                                                                                               
 2020                                                                                                               .    Albertslund .    Untouched_Forest             
 2025                                                                                                               .    Albertslund .    Untouched_Forest             
@@ -190,32 +191,7 @@ $label NO_BIOGAS
 2040                                                                                                               .    Albertslund .    New_Productive_Forest        
 2045                                                                                                               .    Albertslund .    New_Productive_Forest        
 2050                                                                                                               .    Albertslund .    New_Productive_Forest        
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
-                                                                                                                                                                      
+*$label NO_LU                                                                                                                                                         
                                                                                                                                                                       
 /                                                                                                                                                                     
 ;                                                                                                                                                                     
