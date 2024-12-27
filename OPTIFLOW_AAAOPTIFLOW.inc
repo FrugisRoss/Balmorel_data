@@ -3,6 +3,8 @@ SET AAAOPTIFLOW(AAA)     'Areas that are used in the OptiFLow calculations'
 *Rossella LUOptiflow                                                              
                                                                                   
 /                                                                                 
+DK1_A                                                                             
+DK2_A                                                                             
 Albertslund                                                                       
 Alleroed                                                                          
 Assens                                                                            

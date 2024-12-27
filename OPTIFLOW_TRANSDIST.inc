@@ -584,7 +584,10 @@ TRANSDIST('ProcEximTruck','Stevns','Vordingborg')=36.6;
 TRANSDIST('ProcEximTruck','Koege','Vordingborg')=47.9;                                                 
 TRANSDIST('ProcEximTruck','Faaborg-Midtfyn','Aeroe')=35.3;                                             
                                                                                                        
-                                                                                                       
+TRANSDIST('ProcEximFict,'DK1_A',IAAAI)=0;                                                              
+TRANSDIST('ProcEximFict,'DK2_A',IAAAI)=0;                                                              
+TRANSDIST('ProcEximFict,IAAAE,'DK1_A')=0;                                                              
+TRANSDIST('ProcEximFict,IAAAE,'DK2_A')=0;                                                              
                                                                                                        
 ;                                                                                                      
 TRANSDIST(PROC,IAAAE,IAAAI)$((NOT AAAOPTIFLOW(IAAAE)) OR (NOT AAAOPTIFLOW(IAAAI))) = 0;                
