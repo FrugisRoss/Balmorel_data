@@ -1322,5 +1322,5 @@ DK1                                                                 .    Aeroe
 DK1                                                                 .    Aabenraa                       
 DK1                                                                 .    Aalborg                        
 DK1                                                                 .    Aarhus                         
-                                                                                                        
+DK1                                                                 .    SiriGF                         
 /;                                                                                                      
