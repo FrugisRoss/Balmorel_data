@@ -167,6 +167,8 @@ Nitrogen_Production
 ProcEximShip                                                  
 ProcEximTruck                                                 
                                                               
+ProcEximTruckC                                                
+ProcEximPipe                                                  
 Road_fuels_sum                                                
 RoadBuffer                                                    
 Sea_fuels_sum                                                 
