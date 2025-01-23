@@ -166,9 +166,6 @@ Money_buffer_T
 Nitrogen_Production                                           
 ProcEximShip                                                  
 ProcEximTruck                                                 
-ProcEximTruckC                                                
-ProcEximPipe  
-ProcEximPipeOff                                                  
 Road_fuels_sum                                                
 RoadBuffer                                                    
 Sea_fuels_sum                                                 
@@ -243,8 +240,12 @@ Rye_Buffer
 Oat_Buffer                                                    
 Straw_for_Energy                                              
 Straw_for_Use                                                 
-*Wood_Gen                                                     
-*Straw_Gen                                                    
-                                                              
+Wood                                                          
+Straw                                                         
+CO2_BIOGEN_TOT                                                
+CO2_FOS_TOT                                                   
 Solid_Biomass                                                 
+ProcEximPipe                                                  
+CO2_DAC_Sum                                                   
+CO2_Seq_BIOGAS                                                
 /;                                                            
