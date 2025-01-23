@@ -1,3 +1,4 @@
+
 * Note: if a flow entered in a line here in FLOWFROMTOPROC does not have corresponding information in PROCINOUTFLOW                                                                                                               
 * then the variable VPROCESFLOW corresponding to that line will be unrestricted, which is an error.                                                                                                                               
                                                                                                                                                                                                                                   
@@ -827,3 +828,4 @@ Albertslund                                                                     
 FLOWFROMTOPROC(Y,AAA,IPROCFROM,IPROCTO,FLOW)$AAAOPTIFLOW(AAA)=FLOWFROMTOPROC_A('Albertslund',IPROCFROM,IPROCTO,FLOW);                                                                                                             
                                                                                                                                                                                                                                   
 FLOWFROMTOPROC(Y,AAA,'CO2_Source_Fossil','CO2_FOS','CO2_SOURCE_FLOW_FOSSIL')$(YVALUE(Y) GE 2040) = 0;                                                                                                                             
+

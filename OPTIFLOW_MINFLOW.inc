@@ -1,6 +1,7 @@
+
 PARAMETER MINFLOW(YYY,CCCRRRAAA,PROC,FLOW) "Constraint about fuel use limitations (U/year)"                                                                                           
 /                                                                                                                                                                                     
-*Rossella_LUOptiflow                                                                                                                                                                  
+*Rossella_LUOptiflow ï¿½                                                                                                                                                                
 $ifi not %baloptLU%==yes $goto NO_LU                                                                                                                                                  
 2050                                                                                         .    DENMARK        .    Wood_Material_Buffer .    WOOD_MATERIAL_FLOW 1084440            
 2050                                                                                         .    DENMARK        .    Wheat_Buffer         .    WHEAT_FLOW         2654800            

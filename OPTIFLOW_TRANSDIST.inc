@@ -1,3 +1,4 @@
+
 TABLE TRANSDIST(PROC,IAAAE,IAAAI) "Distance measure between two areas"                 
 ;                                                                                      
 TRANSDIST('ProcEximTruck','Aabenraa','Haderslev')=30.2;                                
@@ -515,3 +516,4 @@ TRANSDIST('ProcEximTruck','Nordfyns','Middelfart')=23.9;
                                                                                        
 TRANSDIST(PROC,IAAAE,IAAAI)$((NOT AAAOPTIFLOW(IAAAE)) OR (NOT AAAOPTIFLOW(IAAAI))) = 0;
 TRANSDIST(PROC,IAAAI,IAAAE)$TRANSDIST(PROC,IAAAE,IAAAI) = TRANSDIST(PROC,IAAAE,IAAAI); 
+
