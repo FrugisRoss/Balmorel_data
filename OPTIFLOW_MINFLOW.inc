@@ -11,7 +11,7 @@ $ifi not %baloptLU%==yes $goto NO_LU
                                                                                                                                                                                       
 $label NO_LU                                                                                                                                                                          
                                                                                                                                                                                       
-2050                                                                                         .    DENMARK        .    Solid_Biomass        .    STRAW_FLOW         10000              
+*2050                                                                                        .    DENMARK        .    Solid_Biomass        .    STRAW_FLOW         10000              
                                                                                                                                                                                       
 2050                                                                                         .    AUSTRIA        .    SeaBuffer            .    SEAFLOW            1161965.64626224   
 2050                                                                                         .    AUSTRIA        .    RoadBuffer           .    ROADFLOW           16200520.0256962   
