@@ -55,4 +55,9 @@ GMAXF(Y,CCCRRRAAA,'WOODPELLETS')=GMAXF('2016',CCCRRRAAA,'WOODPELLETS');
 *Removing not needed data if stepwiseprice addon is activated                                                                                                             
 $ifi %STEPWISEPRICE%==yes GMAXF(Y,CCCRRRAAA,STEPWISEPRICE_FFF)=0;                                                                                                         
                                                                                                                                                                           
+$ifi %baloptgasbridge%==yes GMAXF(Y,CCCRRRAAA,'BIOGAS')=EPS;                                                                                                                   
+                                                                                                                                                                               
+$ifi %baloptLU%==yes GMAXF(YYY,'DENMARK','WOODCHIPS')=EPS;                                                                                                                     
+$ifi %baloptLU%==yes GMAXF(YYY,'DENMARK','STRAW')=EPS;                                                                                                                          
+                                                                                                                                                                               
                                                                                                                                                                           
