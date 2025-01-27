@@ -1306,8 +1306,8 @@ TR_VRE-ONS_SP277-HH100_RG2
 TR_VRE-ONS_SP277-HH100_RG3                                 
 UK_VRE-ONS_SP277-HH100_RG1                                 
 UK_VRE-ONS_SP277-HH100_RG2                                 
-UK_VRE-ONS_SP277-HH100_RG3                                 
-                                                           
+UK_VRE-ONS_SP277-HH100_RG3
+
 Albertslund                                                
 Alleroed                                                   
 Assens                                                     
@@ -1408,4 +1408,5 @@ Aabenraa
 Aalborg                                                    
 Aarhus                                                     
 SiriGF                                                     
+
 /;                                                         
