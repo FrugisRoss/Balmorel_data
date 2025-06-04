@@ -11,4 +11,9 @@ Productive_Forest_Land_Gen
 Agricultural_Land_Gen                                
 Wood_Pellets_Gen                                     
 Manure_Gen                                           
+Wheat_Import                                         
+Barley_Import                                        
+Rye_Import                                           
+Oat_Import                                           
+Wood_Materials_Import                                
 /;                                                   
